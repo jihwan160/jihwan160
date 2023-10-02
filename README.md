@@ -8,7 +8,7 @@
   <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
   
  <p>
-   Front-End Skills
+   Front-End Skills 
  </p> 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
